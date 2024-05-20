@@ -1,5 +1,5 @@
 const kBaseUrl = 'https://geohash.surendratmg.com.np';
-const kBaatoKey = 'bpk.F_tFXGQcYl_x-CkUM4ehqZM-DFFNIiyMrryn0JA8RBJ4';
+const kBaatoKey = 'baato_api_key';
 
 const kSearchAddress = 'Search address';
 const kAddDescription = 'Add description';
