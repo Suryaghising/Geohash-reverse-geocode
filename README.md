@@ -10,7 +10,7 @@
   <li>Delete geohash coordinates from Geohash Dataset</li>
   <li>Search geohash by address</li>
 </ul>
-
+<h2><b>***Note***</b></h2>
 <p>Before running the app, please replace <a href="https://github.com/Suryaghising/Geohash-reverse-geocode/blob/main/android/app/src/main/AndroidManifest.xml">"your_key_here"</a> with Google API key in line number 8.</p>
 
 <p>Also, please replace <a href="https://github.com/Suryaghising/Geohash-reverse-geocode/blob/main/lib/utils/constants.dart">baato_api_key</a> with your Baato API Key in line number 2.</p>
